@@ -23,7 +23,7 @@ const Form = () => {
                 placeholder='city'
                 value={city}
             />
-            <button onClick={handleGetWeatherClick}>Get weather</button>
+            <button onClick={handleGetWeatherClick}>Gett weather</button>
         </div>
     );
 
